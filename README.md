@@ -46,10 +46,10 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
   ## Video Walkthrough
   
-  [The following video demonstrates the installation and function of the application.](https://drive.google.com/file/d/1195534CIzH8Qb-_uiFcYevdpdESJErKd/view)
+  [The following video demonstrates the installation and function of the application.](https://drive.google.com/file/d/1PlcBrKvb6lsZZ4_9Hjmor30DBQQnlve1/view)
 
   ## Tests
-  nonr
+  none
 
   ## Questions
   My GitHub username: camwhritenour
